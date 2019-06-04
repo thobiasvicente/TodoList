@@ -1,5 +1,10 @@
 # todo
 
+## About
+```
+A simple TODO list using vuejs, feel free to use in your own code!
+```
+
 ## Project setup
 ```
 npm install
